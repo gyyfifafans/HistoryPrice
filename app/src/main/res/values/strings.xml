@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">京东历史价格</string>
+    <string name="description">显示京东商品历史价格</string>
+    <string name="loading_msg">加载中请稍后…</string>
+</resources>
